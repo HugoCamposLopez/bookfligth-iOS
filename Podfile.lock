@@ -1,0 +1,26 @@
+PODS:
+  - DropDown (2.3.13)
+  - Realm (10.39.1):
+    - Realm/Headers (= 10.39.1)
+  - Realm/Headers (10.39.1)
+  - RealmSwift (10.39.1):
+    - Realm (= 10.39.1)
+
+DEPENDENCIES:
+  - DropDown
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - DropDown
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  Realm: 1f3157edf145f4d9036765ab550c8cb18f62b700
+  RealmSwift: 8a69a1cb788cd5865966f49667b130567e07bceb
+
+PODFILE CHECKSUM: a98b0f6f8519ac1192bededf614c41f2e8cc287e
+
+COCOAPODS: 1.12.1
